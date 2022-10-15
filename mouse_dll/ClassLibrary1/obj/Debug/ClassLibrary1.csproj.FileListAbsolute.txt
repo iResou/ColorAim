@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\InputInterceptor.dll
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\InputInterceptor.pdb
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\andre\Desktop\mouse_dll\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
